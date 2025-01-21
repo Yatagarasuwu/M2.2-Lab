@@ -27,3 +27,6 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+
+
+I'm assuming I don't need to do this step for this lab?
